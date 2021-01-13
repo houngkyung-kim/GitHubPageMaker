@@ -1650,7 +1650,7 @@ body {
   border-bottom: 1px solid hsla(0, 0%, 100%, 0.3);
   color: #fff;
   font-weight: 500;
-  vertical-align: top;
+  /* vertical-align: top; */
   -webkit-transition: opacity 0.3s ease;
   transition: opacity 0.3s ease;
 }

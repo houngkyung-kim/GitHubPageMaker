@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: False
 navigation: True
-title: Gettysburg Address
+title: 게티스버그 연설
 date: 1863-11-19 10:18:00
 tags:
 class: post-template

@@ -453,7 +453,7 @@ ul.lecture-reference li:before {
   line-height: 50px;
   font-family: "fontawesome";
   color: #fff;
-  speak: none;
+  /* speak: none; */
   -webkit-font-smoothing: antialiased;
   content: "\f105"; }
 .dl-menuwrapper li.dl-back:after {
