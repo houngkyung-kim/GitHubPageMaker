@@ -1,11 +1,11 @@
-moon9342 :
+houngkyung-kim :
   username: houngkyung-kim    # user name : martin
   name: houngkyung-kim        # user full name : Martin Luther King
   url_full:             # Homepage url
   url:
   bio: <a href="https://www.youtube.com/channel/UCWxuuvZZsxrxi0iaLe87HwA">달팽이기관차의 유튜브</a>
                         # 회사정보
-  picture: assets/built/images/author-logo.jpg
+  picture: assets/built/images/author-profile.jpg
   # picture: assets/built/images/economy-author-logo.jpg   # author image
   facebook:             # facebook ID
   twitter:              # twitter ID
