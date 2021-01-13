@@ -8,4 +8,4 @@ class: page-template
 subclass: 'post page'
 ---
 
-달팽이기관차의 블로그에 오신 것을 환영합니다!
+달팽이기관차의 테크 블로그에 오신 것을 환영합니다!
