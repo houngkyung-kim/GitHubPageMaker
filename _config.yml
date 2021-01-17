@@ -22,9 +22,6 @@ owner:
   google_plus:
 
 highlighter: rouge
-# text highlighter로 rouge이용
-# 2016.02월 이후로 syntax highlighter는 rouge만 지원.
-# Pygments 사용불가.
 
 paginate: 20
 # 작성한 모든 post를 하나의 페이지에 열거할 수 없으니

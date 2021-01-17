@@ -1,16 +1,19 @@
-python:
-  name: python
-  description: False
-  cover: False
-jekyll:
-  name: jekyll
-  description: False
-  cover: False
 web:
   name: web
   description: False
   cover: False
-
+database:
+  name: database
+  description: False
+  cover: False
+python:
+  name: python
+  description: False
+  cover: False
+mongoose:
+  name: mongoose
+  description: False
+  cover: False
 
 # speeches:
 #   name: speeches
